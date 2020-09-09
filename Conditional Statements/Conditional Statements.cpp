@@ -1,5 +1,5 @@
 ﻿// Conditional Statements.cpp : Bu dosya 'main' işlevi içeriyor. Program yürütme orada başlayıp biter.
-//
+// Author : Sami Sezgin
 
 #include <iostream>
 
