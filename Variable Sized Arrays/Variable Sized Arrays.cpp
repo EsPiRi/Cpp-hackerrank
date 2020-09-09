@@ -1,5 +1,5 @@
 ﻿// Variable Sized Arrays.cpp : Bu dosya 'main' işlevi içeriyor. Program yürütme orada başlayıp biter.
-//
+// Author : Sami Sezgin
 
 #include <iostream>
 #include <vector>
@@ -21,13 +21,13 @@ int main()
 	}
 	int f_index;
 	int l_index;
-	
+
 	for (int k = 0; k < n; k++)
 	{
 		std::cin >> f_index >> l_index;
 		std::cout << myArr[f_index][l_index] << std::endl;
 	}
-	
+
 
 }
 
