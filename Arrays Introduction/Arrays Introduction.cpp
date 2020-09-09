@@ -17,7 +17,6 @@ int main()
 	for (int i = a - 1; i >= 0; i--)
 	{
 		std::cout << arr[i] << " ";
-
 	}
 	return 0;
 }

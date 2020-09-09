@@ -37,6 +37,5 @@
 	int ans = mx - mn;
 	std::cout << toStr(Result = ) << ' ' << ans;
 	return 0;
-
 }
 

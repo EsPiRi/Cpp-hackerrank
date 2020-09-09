@@ -15,7 +15,6 @@ public:
 		element = arg;
 	}
 	T add(T b) { return element + b; }
-	
 };
 //-------IMPORTANT POINT-------//
 int start_up() {
@@ -29,7 +28,6 @@ int static r = start_up();
 
 
 int main() {
-	
 	int n, i;
 	std::cin >> n;
 	for (i = 0; i < n; i++) {

@@ -11,7 +11,6 @@ void update(int *a, int *b)
 		*b -= temp;
 	else
 		*b = temp - *b;
-	
 }
 
 int main()

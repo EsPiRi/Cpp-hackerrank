@@ -28,6 +28,5 @@ int main()
 		std::cout << myArr[f_index][l_index] << std::endl;
 	}
 
-
 }
 

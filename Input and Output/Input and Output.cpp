@@ -10,6 +10,5 @@ int main()
 	std::cin >> a >> b >> c;
 	sum = a + b + c;
 	std::cout << sum;
-
 }
 
