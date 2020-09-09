@@ -27,6 +27,5 @@ int main()
 		std::cin >> f_index >> l_index;
 		std::cout << myArr[f_index][l_index] << std::endl;
 	}
-
 }
 

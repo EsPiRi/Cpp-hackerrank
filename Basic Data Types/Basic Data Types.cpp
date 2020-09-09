@@ -24,6 +24,5 @@ int main()
 	std::cout << std::setprecision(10) << c << std::endl;
 	std::cout << std::setprecision(10) << d << std::endl;
 	std::cout << std::setprecision(10) << e << std::endl;
-	
 }
 

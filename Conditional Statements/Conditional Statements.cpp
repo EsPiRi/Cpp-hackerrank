@@ -27,6 +27,5 @@ int main()
 		std::cout << "nine";
 	else if (a > 9)
 		std::cout << "Greater than 9";
-
 }
 
