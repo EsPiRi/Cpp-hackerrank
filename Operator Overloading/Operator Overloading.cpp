@@ -13,7 +13,6 @@ public:
 	std::vector<std::vector<int>> a;
 
 	Matrix& operator +(const Matrix& y) {
-
 		for (int i = 0; i < y.a.size(); i++) {
 			for (int j = 0; j < y.a[i].size(); j++)
 			{
