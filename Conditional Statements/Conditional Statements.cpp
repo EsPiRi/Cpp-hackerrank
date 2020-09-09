@@ -3,8 +3,7 @@
 
 #include <iostream>
 
-int main()
-{
+int main(){
 	int a;
 	std::cin >> a;
 	if (a == 1)
@@ -28,4 +27,3 @@ int main()
 	else if (a > 9)
 		std::cout << "Greater than 9";
 }
-

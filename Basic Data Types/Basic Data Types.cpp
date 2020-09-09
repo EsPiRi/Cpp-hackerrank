@@ -5,8 +5,7 @@
 #include <iomanip>
 #include <iostream>
 
-int main()
-{
+int main(){
 	int a;
 	long long b;
 	char c;
@@ -25,4 +24,3 @@ int main()
 	std::cout << std::setprecision(10) << d << std::endl;
 	std::cout << std::setprecision(10) << e << std::endl;
 }
-

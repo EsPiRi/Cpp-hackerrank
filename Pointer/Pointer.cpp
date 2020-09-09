@@ -3,8 +3,7 @@
 
 #include <iostream>
 
-void update(int *a, int *b)
-{
+void update(int* a, int* b){
 	int temp = *a;
 	*a += *b;
 	if (*b >= temp)
@@ -13,11 +12,9 @@ void update(int *a, int *b)
 		*b = temp - *b;
 }
 
-int main()
-{
-    int a, b;
+int main(){
+	int a, b;
 	std::cin >> a >> b;
 	update(&a, &b);
 	std::cout << a << std::endl << b << std::endl;
 }
-

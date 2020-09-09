@@ -3,12 +3,11 @@
 
 #include <iostream>
 
-int main()
-{
+int main(){
 	int a, b;
 	std::cin >> a;
 	std::cin >> b;
-	for (; a <= b; a++) {
+	for (; a <= b; a++){
 		if (a == 1)
 			std::cout << "one" << std::endl;
 		else if (a == 2)
@@ -33,4 +32,3 @@ int main()
 			std::cout << "odd" << std::endl;
 	}
 }
-
