@@ -11,6 +11,7 @@ class Student{
     std::string first_name;
     std::string last_name;
     int standard;
+
   public:
     void set_age(int age){
       this -> age = age;
